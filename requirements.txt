@@ -1,3 +1,4 @@
-twilio==8.23.0
-vonage==2.7.0
-colorama==0.4.6
+twilio
+vonage
+messagebird
+colorama
